@@ -1,1 +1,2 @@
 this is from newbranch.
+line 1 from master.
